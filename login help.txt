@@ -1,0 +1,8 @@
+
+Connection to MYSQL server using local ip 127.0.0.1:3306
+
+LOGIN WINDOW
+
+USER ID: 1
+PASSWORD: 1
+
